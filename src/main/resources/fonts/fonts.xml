@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Gilroy">
+        <normal><![CDATA[fonts/gilroy/Gilroy-Regular.ttf]]></normal>
+        <bold><![CDATA[fonts/gilroy/Gilroy-Bold.ttf]]></bold>
+        <italic><![CDATA[fonts/gilroy/Gilroy-RegularItalic.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/gilroy/Gilroy-BoldItalic.ttf]]></bolditalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+    <fontFamily name="SemiGilroy">
+        <normal><![CDATA[fonts/gilroy/Gilroy-Regular.ttf]]></normal>
+        <bold><![CDATA[fonts/gilroy/Gilroy-SemiBold.ttf]]></bold>
+        <italic><![CDATA[fonts/gilroy/Gilroy-LightItalic.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/gilroy/Gilroy-SemiBoldItalic.ttf]]></bolditalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+    <fontFamily name="MediumGilroy">
+        <normal><![CDATA[fonts/gilroy/Gilroy-Regular.ttf]]></normal>
+        <bold><![CDATA[fonts/gilroy/Gilroy-Medium.ttf]]></bold>
+        <italic><![CDATA[fonts/gilroy/Gilroy-LightItalic.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/gilroy/Gilroy-MediumItalic.ttf]]></bolditalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+</fontFamilies>
